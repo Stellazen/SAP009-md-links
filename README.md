@@ -1,7 +1,7 @@
 # Markdown Links
 Projeto 04 da turma 009 da Laboratória.
 ## Sobre oque é esse projeto
-O objetivo deste projeto era criar uma ferramenta de linha de comando (CLI) e a própria biblioteca instalável em JavaSript.
+O objetivo deste projeto era criar uma ferramenta de linha de comando (CLI) e a própria biblioteca instalável em JavaScript.
 ## Como Utilizar
 * Para instalar execute o segundo comando no terminal:<br>
 ```npm i md-links-stellazen```
