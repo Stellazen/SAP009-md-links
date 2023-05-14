@@ -18,10 +18,10 @@ Que irá retornar a quantidade de links totais e links únicos.<br>
 ```md-links ./caminhoDoArquivo --stats --validate ```<br>
 Que irá retornar a quantidade de links totais, únicos e quebrados.<br>
 ## Tecnologias Utilizadas
-✅ NodeJs
-✅ JavaScript
-✅ Jest
-✅ Github
+✅ NodeJs<br>
+✅ JavaScript<br>
+✅ Jest<br>
+✅ Github<br>
 ✅ Trello
 
 
